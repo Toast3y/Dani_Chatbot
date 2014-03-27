@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dani_Chatbot3", "Dani_Chatbot3\Dani_Chatbot3.csproj", "{838821AC-8CBC-42B0-B452-88AD0977D983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{838821AC-8CBC-42B0-B452-88AD0977D983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838821AC-8CBC-42B0-B452-88AD0977D983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838821AC-8CBC-42B0-B452-88AD0977D983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838821AC-8CBC-42B0-B452-88AD0977D983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
